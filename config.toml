@@ -1,3 +1,4 @@
+baseURL = "https://one-down.netlify.com/"
 languageCode = "en-us"
 title = "1-Down"
 theme = "aether"
