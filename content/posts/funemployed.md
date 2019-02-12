@@ -9,4 +9,4 @@ description: "Funemployment: where it all began"
 
 "FUNEMPLOYED" made its New York Times crossword debut on the same day that I officially became funemployed. It's destiny! 
 
-I'm researching this word by living it every day. 
+The inclusion of "Funemployed" in the February 8th puzzle convinced me to use that puzzle for this project.
