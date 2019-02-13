@@ -1,10 +1,11 @@
 ---
 title: "Intro"
-date: 2019-02-10T21:48:09-08:00
+date: 2019-02-10T21:44:09-08:00
 draft: false
 featuredImage: "/images/crossword.png"
 featuredImageDescription: "The crossword"
 description: "My quest to learn everything about one crossword puzzle"
+weight: 1
 ---
 
 Sometimes I do crossword puzzles and they reference movies, books, people, and things I don't know about. I thought of this idea to choose one crossword and learn about every reference in it, by reading a book, watching a movie, visiting a place, or going to an event.
