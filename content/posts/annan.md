@@ -14,7 +14,7 @@ He also wrote a book about his experience at the UN. I haven't read it but [Bill
 Some things I learned:
 
 * The correct pronounciation of his last name rhymes with "cannon".
-* He had a twin sister, and his middle name is Atta which means "twin".
+* He had a twin sister, and his middle name is Atta which means "twin". His first name means "born on Friday" in [Ghanaian tradition](https://en.wikipedia.org/wiki/Akan_names).
 * He went to MIT for business school.
 * The movie showed how Annan worked to help rebuild Afghanistan after the US + NATO overthrew the Taliban post-September 11th. The UN doesn't have their own army or a large budget, so most of the work is convincing countries to contribute to causes.
 * The movie also follows his work in helping East Timor (now know as Timor-Leste) gain independence from Indonesia.
