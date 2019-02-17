@@ -1,7 +1,7 @@
 ---
 title: "Irene"
 date: 2019-02-16T17:38:44-08:00
-draft: true
+draft: false
 featuredImage: "/images/joliot-curie-irene2.jpg"
 featuredImageDescription: "Irène Joliot-Curie at work"
 description: "Irène Joliot-Curie discovered artificial radioactivity and inspired me to learn more about particle physics."
