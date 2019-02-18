@@ -8,7 +8,8 @@
         <header class="post-header">
         	<h1 class="post-title">{{ .Title }}</h1>
         	{{ if isset .Params "subtitle" }}
-        	  <h2 class="post-title" style="font-size:1.5em; color:#888; margin-top: -0.2em">{{ .Params.subtitle }}</h2>
+        	  <h2 class="post-title" style="font-size:1.5em; color:#666; font-weight: normal; margin-top: -0.3em">
+        	  {{.Params.subtitle }}</h2>
         	{{- end }}
           <p class="post-date">Posted <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "Jan 2, 2006" }}</time></p>
         </header>
