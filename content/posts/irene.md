@@ -1,5 +1,6 @@
 ---
 title: "Irene"
+subtitle: "9 Down: 1935 Nobelist Joliot-Curie"
 date: 2019-02-16T17:38:44-08:00
 draft: false
 featuredImage: "/images/joliot-curie-irene2.jpg"
@@ -29,9 +30,9 @@ In honor of Irène Joliot-Curie's contributions to particle physics, I visited t
 * To discover further new particles, more powerful accelerators are needed, such as the Large Hadron Collidor. So SLAC has pivoted to use its accelerator for other things.
 * One cool project we learned about is the [Linac Coherent Light Source (LCLS)](https://lcls.slac.stanford.edu/overview). Electrons are shot down the linear accelerator while being "wiggled" side to side with magnets. The electrons give off X-rays via synchrotron radiation that are up to a billion times as powerful as normal X-rays. These X-rays are then used to take femtosecond-length pictures, which can capture "stop-motion animation" of extremely fast processes like chemical reactions in progress.
 
-Here's a picture from the tour. The long silver tube on the left is the detector that records the images from the X-rays. The silver square just beyond the tube is where the electrons and X-rays come out from at the end of a 0.7-mile-long tube.
+Here's a picture from the tour. The long silver tube on the left is the detector that records the images from the X-rays. The silver square with a small black hole just beyond the detector is where the electrons and X-rays come out from at the end of their 0.7-mile-long trip down the accelerator.
 
-{{<smallimg src="/images/slac1.jpg" alt="SLAC">}}
+{{<smallimg src="/images/slac1.jpg" alt="SLAC" width="600px">}}
 
 Irène Joliot-Curie would be impressed!
 

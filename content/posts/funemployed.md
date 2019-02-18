@@ -1,5 +1,6 @@
 ---
 title: "Funemployed"
+subtitle: "2 Down: Between jobs and loving it"
 date: 2019-02-10T21:45:20-08:00
 draft: false
 featuredImage: "/images/vanana.jpg"

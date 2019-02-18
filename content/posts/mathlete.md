@@ -1,5 +1,6 @@
 ---
-title: "Mathlete"
+title: "Mathletes"
+subtitle: "17 Across: Calculating competitors"
 date: 2019-02-10T21:46:50-08:00
 draft: false
 featuredImage: "/images/math_comp.jpg"
