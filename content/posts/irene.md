@@ -5,7 +5,7 @@ date: 2019-02-16T17:38:44-08:00
 draft: false
 featuredImage: "/images/joliot-curie-irene2.jpg"
 featuredImageDescription: "Irène Joliot-Curie at work"
-description: "Irène Joliot-Curie discovered artificial radioactivity and inspired me to learn more about particle physics."
+description: "Irène Joliot-Curie discovered artificial radioactivity and inspired me to learn about particle physics."
 ---
 
 Irène Joliot-Curie won a Nobel Prize in Chemistry for her discovery of artificial radioactivity. To research her, I watched the documentary [Out from the Shadows: The Story of Irène Joliot-Curie and Frédéric Joliot Curie](https://www.kanopy.com/wayf/video/out-shadows-story-irene-joliot-curie-and-fre)[^1] and listened to a [Babes of Science podcast](https://www.stitcher.com/podcast/poncie-rutsch/babes-of-science/e/48910680) about her, as well as taking a tangentially-related visit to the SLAC National Accelerator Laboratory at Stanford.
