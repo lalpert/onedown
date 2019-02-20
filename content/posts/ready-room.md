@@ -1,7 +1,7 @@
 ---
 title: "Ready Room"
 subtitle: "14 Across: Military pilot's waiting area"
-date: 2019-02-17T19:49:51-08:00
+date: 2019-02-18T19:49:51-08:00
 draft: false
 featuredImage: "/images/readyroom1.jpg"
 featuredImageDescription: "Me in the USS Hornet Ready Room"
