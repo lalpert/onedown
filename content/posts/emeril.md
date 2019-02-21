@@ -21,16 +21,16 @@ My brother, my sister, and my sister's boyfriend came over to help experience al
 
 Some findings:
 
-* Emeril Lagasse grew up in Fall River, Massachusetts -- just a few miles from where my Dad grew up!
+* Emeril Lagasse grew up in Fall River, Massachusetts -- just a few miles from where my Dad grew up! We appreciated Emeril's Massachusetts accent.
 * There were no recipes that came with the videos, we had to freestyle it according to Emeril's instructions. Everything came out pretty good!
 * Emeril's version of "a little bit" didn't always match our own perceptions...
 
 Here's the clip (no sound) of Emeril adding a "tiny bit" of butter to the vegetables:
-<video controls width="700" src="/images/emeril/butter_video.mov" style="display: block; margin: 0 auto;"></video>
+<video controls width="700" src="/images/emeril/butter_video.mov" style="display: block; margin: 0 auto; max-width: 100%"></video>
 
 And Daniel's re-enacment of Emeril adding a "little bit" of wine to the stock:
 
-<video controls width="400" src="/images/emeril/wine.mp4" style="display: block; margin: 0 auto;"></video>
+<video controls width="400" src="/images/emeril/wine.mp4" style="display: block; margin: 0 auto; max-width: 100%"></video>
 
 ---
 
@@ -52,7 +52,7 @@ And the sweet potato custed sole:
 
 My brother (an Instagram professional) taught me about making slo-mo videos:
 
-<video controls width="600" src="/images/emeril/oil_pour480.mp4" style="display: block; margin: 0 auto;"></video>
+<video controls width="600" src="/images/emeril/oil_pour.mp4" style="display: block; margin: 0 auto; max-width: 100%"></video>
 
 ---
 
