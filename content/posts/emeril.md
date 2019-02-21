@@ -26,7 +26,7 @@ Some findings:
 * Emeril's version of "a little bit" didn't always match our own perceptions...
 
 Here's the clip (no sound) of Emeril adding a "tiny bit" of butter to the vegetables:
-<video controls width="700" src="/images/emeril/butter_video.mov" style="display: block; margin: 0 auto; max-width: 100%"></video>
+<video controls width="700" src="/images/emeril/butter.m4v" style="display: block; margin: 0 auto; max-width: 100%"></video>
 
 And Daniel's re-enacment of Emeril adding a "little bit" of wine to the stock:
 
@@ -52,7 +52,7 @@ And the sweet potato custed sole:
 
 My brother (an Instagram professional) taught me about making slo-mo videos:
 
-<video controls width="600" src="/images/emeril/oil_pour.mp4" style="display: block; margin: 0 auto; max-width: 100%"></video>
+<video controls width="600" src="/images/emeril/oil.m4v" style="display: block; margin: 0 auto; max-width: 100%"></video>
 
 ---
 
