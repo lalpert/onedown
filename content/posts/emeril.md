@@ -28,7 +28,7 @@ Some findings:
 Here's the clip (no sound) of Emeril adding a "tiny bit" of butter to the vegetables:
 <video controls width="700" src="/images/emeril/butter.m4v" style="display: block; margin: 0 auto; max-width: 100%"></video>
 
-And Daniel's re-enacment of Emeril adding a "little bit" of wine to the stock:
+And Daniel's re-enactment of Emeril adding a "little bit" of wine to the stock:
 
 <video controls width="400" src="/images/emeril/wine.mp4" style="display: block; margin: 0 auto; max-width: 100%"></video>
 
